@@ -13,3 +13,7 @@ project/plugins/project/
 .idea
 *.class
 out
+.bsp
+.idea
+.metals
+.vscode
