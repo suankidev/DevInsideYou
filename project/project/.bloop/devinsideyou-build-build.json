@@ -2,153 +2,164 @@
     "version": "1.4.0",
     "project": {
         "name": "devinsideyou-build-build",
-        "directory": "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project",
-        "workspaceDir": "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project",
+        "directory": "/home/suanki/Desktop/projects/DevInsideYou/project/project",
+        "workspaceDir": "/home/suanki/Desktop/projects/DevInsideYou/project/project",
         "sources": [
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\scala",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\scala-2",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\java",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "/home/suanki/Desktop/projects/DevInsideYou/project/project/src/main/scala",
+            "/home/suanki/Desktop/projects/DevInsideYou/project/project/src/main/scala-3",
+            "/home/suanki/Desktop/projects/DevInsideYou/project/project/src/main/java",
+            "/home/suanki/Desktop/projects/DevInsideYou/project/project/src/main/scala-sbt-2",
+            "/home/suanki/Desktop/projects/DevInsideYou/target/out/jvm/scala-3.8.4/devinsideyou-build-build/src_managed/main"
         ],
         "dependencies": [
             
         ],
         "classpath": [
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.9.7\\sbt-1.9.7.jar",
-            "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.11\\sbt-bloop_2.12_1.0-1.5.11.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.9.7\\main_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.9.7\\io_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\logic_2.12\\1.9.7\\logic_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\actions_2.12\\1.9.7\\actions_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main-settings_2.12\\1.9.7\\main-settings_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\run_2.12\\1.9.7\\run_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\command_2.12\\1.9.7\\command_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\collections_2.12\\1.9.7\\collections_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\scripted-plugin_2.12\\1.9.7\\scripted-plugin_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-lm-integration_2.12\\1.9.7\\zinc-lm-integration_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-logging_2.12\\1.9.7\\util-logging_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-xml_2.12\\2.2.0\\scala-xml_2.12-2.2.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\launcher-interface\\1.4.2\\launcher-interface-1.4.2.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\ben-manes\\caffeine\\caffeine\\2.8.5\\caffeine-2.8.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\get-coursier\\lm-coursier-shaded_2.12\\2.1.2\\lm-coursier-shaded_2.12-2.1.2.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-api\\2.17.1\\log4j-api-2.17.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-core\\2.17.1\\log4j-core-2.17.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-slf4j-impl\\2.17.1\\log4j-slf4j-impl-2.17.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-core_2.12\\1.9.3\\librarymanagement-core_2.12-1.9.3.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-ivy_2.12\\1.9.3\\librarymanagement-ivy_2.12-1.9.3.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-interface\\1.9.5\\compiler-interface-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile_2.12\\1.9.5\\zinc-compile_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\swoval\\file-tree-views\\2.1.12\\file-tree-views-2.1.12.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna-platform\\5.13.0\\jna-platform-5.13.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-relation_2.12\\1.9.7\\util-relation_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\completion_2.12\\1.9.7\\completion_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\task-system_2.12\\1.9.7\\task-system_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\tasks_2.12\\1.9.7\\tasks_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\testing_2.12\\1.9.7\\testing_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-tracking_2.12\\1.9.7\\util-tracking_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-scalajson_2.12\\0.9.1\\sjson-new-scalajson_2.12-0.9.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal\\3.19.0\\jline-terminal-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classpath_2.12\\1.9.5\\zinc-classpath_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-apiinfo_2.12\\1.9.5\\zinc-apiinfo_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc_2.12\\1.9.5\\zinc_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\core-macros_2.12\\1.9.7\\core-macros_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-cache_2.12\\1.9.7\\util-cache_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-control_2.12\\1.9.7\\util-control_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\protocol_2.12\\1.9.7\\protocol_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-core_2.12\\0.9.1\\sjson-new-core_2.12-0.9.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\template-resolver\\0.1\\template-resolver-0.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-position_2.12\\1.9.7\\util-position_2.12-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile-core_2.12\\1.9.5\\zinc-compile-core_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-interface\\1.9.7\\util-interface-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\jline\\jline\\2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493\\jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jna\\3.19.0\\jline-terminal-jna-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jansi\\3.19.0\\jline-terminal-jansi-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lmax\\disruptor\\3.4.2\\disruptor-3.4.2.jar",
-            "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-reflect.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\checkerframework\\checker-qual\\3.4.1\\checker-qual-3.4.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\errorprone\\error_prone_annotations\\2.4.0\\error_prone_annotations-2.4.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-collection-compat_2.12\\2.10.0\\scala-collection-compat_2.12-2.10.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\slf4j\\slf4j-api\\1.7.36\\slf4j-api-1.7.36.jar",
-            "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-compiler.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\jcraft\\jsch\\0.1.54\\jsch-0.1.54.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-apache-http_2.12\\0.7.0\\gigahorse-apache-http_2.12-0.7.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ivy\\ivy\\2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2\\ivy-2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-reader\\3.19.0\\jline-reader-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-builtins\\3.19.0\\jline-builtins-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-agent\\1.9.7\\test-agent-1.9.7.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-interface\\1.0\\test-interface-1.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-jawn-parser_2.12\\0.9.1\\shaded-jawn-parser_2.12-0.9.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-scalajson_2.12\\1.0.0-M4\\shaded-scalajson_2.12-1.0.0-M4.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-bridge_2.12\\1.9.5\\compiler-bridge_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classfile_2.12\\1.9.5\\zinc-classfile_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-core_2.12\\1.9.5\\zinc-core_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist_2.12\\1.9.5\\zinc-persist_2.12-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-murmurhash_2.12\\0.9.1\\sjson-new-murmurhash_2.12-0.9.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ipcsocket\\ipcsocket\\1.6.2\\ipcsocket-1.6.2.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.12\\1.1.2\\scala-parser-combinators_2.12-1.1.2.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\openhft\\zero-allocation-hashing\\0.10.1\\zero-allocation-hashing-0.10.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\2.1.0\\jansi-2.1.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-core_2.12\\0.7.0\\gigahorse-core_2.12-0.7.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-apache-httpasyncclient\\0.7.0\\shaded-apache-httpasyncclient-0.7.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-style\\3.19.0\\jline-style-3.19.0.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist-core-assembly\\1.9.5\\zinc-persist-core-assembly-1.9.5.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbinary_2.12\\0.5.1\\sbinary_2.12-0.5.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\ssl-config-core_2.12\\0.6.1\\ssl-config-core_2.12-0.6.1.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3.jar",
-            "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/2.0.11/sbt-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_sbt2_3/2.1.2/sbt-bloop_sbt2_3-2.1.2.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_3/2.0.11/main_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_3/1.13.5/io_3-1.13.5.jar",
+            "/home/suanki/.sbt/boot/scala-3.8.4/lib/scala-library.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_3/2.3.3/bloop-config_3-2.3.3.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_3/2.0.11/actions_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/build-file_3/2.0.11/build-file_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_3/2.0.11/main-settings_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_3/2.0.11/run_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_3/2.0.11/command_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_3/2.0.11/collections_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_3/2.0.11/librarymanagement-ivy_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_3/2.0.11/zinc-lm-integration_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_3/2.0.11/util-logging_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_3/2.0.11/librarymanagement-core_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-coursier_3/2.0.11/librarymanagement-coursier_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_3/2.4.0/scala-xml_3-2.4.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_3/0.15.1/sjson-new-scalajson_3-0.15.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_3/0.15.1/sjson-new-core_3-0.15.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.6.2/launcher-interface-1.6.2.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_3/1.2.0/scala-parallel-collections_3-1.2.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/2.0.4/compiler-interface-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_3/2.0.4/zinc-compile-core_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_3/0.1.12/unroll-annotation_3-0.1.12.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_3/2.0.11/completion_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_3/2.0.11/task-system_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_3/2.0.11/tasks_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_3/2.0.11/testing_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_3/2.0.11/util-cache_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_3/2.0.11/util-relation_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_3/2.0.11/util-tracking_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/worker/2.0.11/worker-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_3/2.0.11/protocol_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_3/0.9.6/gigahorse-apache-http_3-0.9.6.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.27.1/jline-terminal-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_3/2.0.4/zinc-classpath_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_3/2.0.4/zinc-apiinfo_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_3/2.0.4/zinc_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_3/2.0.11/core-macros_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_3/2.0.11/logic_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_3/2.0.11/util-control_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_3/2.0.11/util-position_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-core_3/2.0.11/util-core_3-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a/ivy-2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/2.0.11/util-interface-2.0.11.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18/jline-2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.27.1/jline-terminal-jni-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.27.1/jline-native-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_3/1.0.0-M4/shaded-scalajson_3-1.0.0-M4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_3/1.7.0/shaded-jawn-parser_3-1.7.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_3/2.0.4/zinc-classfile_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_3/2.1.0/scala-parser-combinators_3-2.1.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.27.1/jline-reader-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.27.1/jline-builtins-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_3/0.15.1/sjson-new-murmurhash_3-0.15.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/gson/shaded-gson/2.13.1/shaded-gson-2.13.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.8.0/ipcsocket-1.8.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_3/0.9.6/gigahorse-core_3-0.9.6.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpclient5/0.9.6/shaded-apache-httpclient5-0.9.6.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_3/2.0.4/zinc-core_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_3/2.0.4/zinc-persist_3-2.0.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.27.1/jline-style-3.27.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.19.0/jna-5.19.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.19.0/jna-platform-5.19.0.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_3/0.7.1/ssl-config-core_3-0.7.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_3/0.5.1/sbinary_3-0.5.1.jar",
+            "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar"
         ],
-        "out": "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\.bloop\\devinsideyou-build-build",
-        "classesDir": "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\.bloop\\devinsideyou-build-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "/home/suanki/Desktop/projects/DevInsideYou/project/project/.bloop/devinsideyou-build-build",
+        "classesDir": "/home/suanki/Desktop/projects/DevInsideYou/project/project/.bloop/devinsideyou-build-build/scala-3.8.4/sbt-2/classes",
         "resources": [
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\src\\main\\resources",
-            "C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "/home/suanki/Desktop/projects/DevInsideYou/project/project/src/main/resources",
+            "/home/suanki/Desktop/projects/DevInsideYou/target/out/jvm/scala-3.8.4/devinsideyou-build-build/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
             "name": "scala-compiler",
-            "version": "2.12.18",
+            "version": "3.8.4",
             "options": [
-                "-deprecation",
-                "-Wconf:cat=unused-nowarn:s",
-                "-Wconf:cat=unused-nowarn:s",
-                "-Wconf:cat=unused-nowarn:s",
-                "-Xsource:3"
+                "-deprecation"
             ],
             "jars": [
-                "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar",
-                "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-compiler.jar",
-                "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-reflect.jar",
-                "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-xml_2.12-2.1.0.jar"
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4.jar",
+                "/home/suanki/.sbt/boot/scala-3.8.4/lib/scala-library.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.7/compiler-interface-1.10.7.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.10.7/util-interface-1.10.7.jar"
             ],
             "setup": {
                 "order": "mixed",
-                "addLibraryToBootClasspath": true,
+                "addLibraryToBootClasspath": false,
                 "addCompilerToClasspath": false,
                 "addExtraJarsToClasspath": false,
-                "manageBootClasspath": true,
-                "filterLibraryFromClasspath": true
-            }
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            },
+            "bridgeJars": [
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.8.4/scala3-sbt-bridge-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.8.4/scala3-sbt-bridge-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-repl_3/3.8.4/scala3-repl_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.7/compiler-interface-1.10.7.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.29.0/jline-reader-3.29.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.29.0/jline-terminal-3.29.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.29.0/jline-terminal-jni-3.29.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.3/pprint_3-0.9.3.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.1/fansi_3-0.5.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.4/sourcecode_3-0.4.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.28/interface-1.0.28.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.4/using_directives-1.1.4.jar",
+                "/home/suanki/.sbt/boot/scala-3.8.4/lib/scala-library.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.10.7/util-interface-1.10.7.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.29.0/jline-native-3.29.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar"
+            ]
         },
         "java": {
             "options": [
                 
-            ]
-        },
-        "sbt": {
-            "sbtVersion": "1.9.7",
-            "autoImports": [
-                "import _root_.scala.xml.{TopScope=>$scope}",
-                "import _root_.sbt._",
-                "import _root_.sbt.Keys._",
-                "import _root_.sbt.nio.Keys._",
-                "import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._",
-                "import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin"
             ]
         },
         "test": {
@@ -213,335 +224,517 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "C:\\Program Files\\Java\\jdk1.8.0_291\\jre",
+                "home": "/usr/lib/jvm/java-17-openjdk-amd64",
                 "options": [
-                    "-Duser.dir=C:\\Users\\sujee\\OneDrive\\Documents\\bigdata_and_hadoop\\DevInsideYou\\project\\project"
+                    "-Duser.dir=/home/suanki/Desktop/projects/DevInsideYou/project/project"
                 ]
             },
             "mainClass": [
                 
+            ],
+            "runtimeConfig": {
+                "home": "/usr/lib/jvm/java-17-openjdk-amd64",
+                "options": [
+                    "-Duser.dir=/home/suanki/Desktop/projects/DevInsideYou/project/project"
+                ]
+            },
+            "classpath": [
+                "/home/suanki/Desktop/projects/DevInsideYou/project/project/.bloop/devinsideyou-build-build/scala-3.8.4/sbt-2/classes",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_sbt2_3/2.1.2/sbt-bloop_sbt2_3-2.1.2.jar",
+                "/home/suanki/.sbt/boot/scala-3.8.4/lib/scala-library.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_3/2.3.3/bloop-config_3-2.3.3.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_3/0.1.12/unroll-annotation_3-0.1.12.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/2.0.11/sbt-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_3/2.0.11/main_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_3/1.13.5/io_3-1.13.5.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_3/2.0.11/actions_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/build-file_3/2.0.11/build-file_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_3/2.0.11/main-settings_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_3/2.0.11/run_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_3/2.0.11/command_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_3/2.0.11/collections_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_3/2.0.11/librarymanagement-ivy_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_3/2.0.11/zinc-lm-integration_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_3/2.0.11/util-logging_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_3/2.0.11/librarymanagement-core_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-coursier_3/2.0.11/librarymanagement-coursier_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_3/2.4.0/scala-xml_3-2.4.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_3/0.15.1/sjson-new-scalajson_3-0.15.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_3/0.15.1/sjson-new-core_3-0.15.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.6.2/launcher-interface-1.6.2.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_3/1.2.0/scala-parallel-collections_3-1.2.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/2.0.4/compiler-interface-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_3/2.0.4/zinc-compile-core_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_3/2.0.11/completion_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_3/2.0.11/task-system_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_3/2.0.11/tasks_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_3/2.0.11/testing_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_3/2.0.11/util-cache_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_3/2.0.11/util-relation_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_3/2.0.11/util-tracking_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/worker/2.0.11/worker-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_3/2.0.11/protocol_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_3/0.9.6/gigahorse-apache-http_3-0.9.6.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.27.1/jline-terminal-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_3/2.0.4/zinc-classpath_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_3/2.0.4/zinc-apiinfo_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_3/2.0.4/zinc_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_3/2.0.11/core-macros_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_3/2.0.11/logic_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_3/2.0.11/util-control_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_3/2.0.11/util-position_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-core_3/2.0.11/util-core_3-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a/ivy-2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/2.0.11/util-interface-2.0.11.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18/jline-2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.27.1/jline-terminal-jni-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.27.1/jline-native-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_3/1.0.0-M4/shaded-scalajson_3-1.0.0-M4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_3/1.7.0/shaded-jawn-parser_3-1.7.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_3/2.0.4/zinc-classfile_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_3/2.1.0/scala-parser-combinators_3-2.1.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.27.1/jline-reader-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.27.1/jline-builtins-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_3/0.15.1/sjson-new-murmurhash_3-0.15.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/gson/shaded-gson/2.13.1/shaded-gson-2.13.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.8.0/ipcsocket-1.8.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_3/0.9.6/gigahorse-core_3-0.9.6.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpclient5/0.9.6/shaded-apache-httpclient5-0.9.6.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_3/2.0.4/zinc-core_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_3/2.0.4/zinc-persist_3-2.0.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.27.1/jline-style-3.27.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.19.0/jna-5.19.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.19.0/jna-platform-5.19.0.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_3/0.7.1/ssl-config-core_3-0.7.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_3/0.5.1/sbinary_3-0.5.1.jar",
+                "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar"
             ]
         },
         "resolution": {
             "modules": [
                 {
-                    "organization": "ch.epfl.scala",
-                    "name": "sbt-bloop",
-                    "version": "1.5.11",
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_3",
+                    "version": "3.8.4",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "sbt-bloop",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.11\\sbt-bloop_2.12_1.0-1.5.11.jar"
+                            "name": "scala3-library_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4.jar"
                         },
                         {
-                            "name": "sbt-bloop",
+                            "name": "scala3-library_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.11\\sbt-bloop_2.12_1.0-1.5.11-sources.jar"
-                        },
-                        {
-                            "name": "sbt-bloop",
-                            "classifier": "javadoc",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.5.11\\sbt-bloop_2.12_1.0-1.5.11-javadoc.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.8.4/scala3-library_3-3.8.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "ch.epfl.scala",
-                    "name": "bloop-config_2.12",
-                    "version": "1.5.5",
+                    "name": "sbt-bloop_sbt2_3",
+                    "version": "2.1.2",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "bloop-config_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5.jar"
+                            "name": "sbt-bloop_sbt2_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_sbt2_3/2.1.2/sbt-bloop_sbt2_3-2.1.2.jar"
                         },
                         {
-                            "name": "bloop-config_2.12",
+                            "name": "sbt-bloop_sbt2_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5-sources.jar"
-                        },
-                        {
-                            "name": "bloop-config_2.12",
-                            "classifier": "javadoc",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\1.5.5\\bloop-config_2.12-1.5.5-javadoc.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.github.plokhotnyuk.jsoniter-scala",
-                    "name": "jsoniter-scala-core_2.12",
-                    "version": "2.4.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "jsoniter-scala-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0.jar"
-                        },
-                        {
-                            "name": "jsoniter-scala-core_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0-sources.jar"
-                        },
-                        {
-                            "name": "jsoniter-scala-core_2.12",
-                            "classifier": "javadoc",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0-javadoc.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_sbt2_3/2.1.2/sbt-bloop_sbt2_3-2.1.2-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.12.18",
+                    "version": "3.8.4",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar"
+                            "path": "/home/suanki/.sbt/boot/scala-3.8.4/lib/scala-library.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.18\\scala-library-2.12.18-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/3.8.4/scala-library-3.8.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "ch.epfl.scala",
+                    "name": "bloop-config_3",
+                    "version": "2.3.3",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "bloop-config_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_3/2.3.3/bloop-config_3-2.3.3.jar"
+                        },
+                        {
+                            "name": "bloop-config_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_3/2.3.3/bloop-config_3-2.3.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.github.plokhotnyuk.jsoniter-scala",
+                    "name": "jsoniter-scala-core_3",
+                    "version": "2.13.5.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "jsoniter-scala-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar"
+                        },
+                        {
+                            "name": "jsoniter-scala-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "unroll-annotation_3",
+                    "version": "0.1.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "unroll-annotation_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_3/0.1.12/unroll-annotation_3-0.1.12.jar"
+                        },
+                        {
+                            "name": "unroll-annotation_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_3/0.1.12/unroll-annotation_3-0.1.12-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
                     "name": "sbt",
-                    "version": "1.9.7",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "sbt",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.9.7\\sbt-1.9.7.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/2.0.11/sbt-2.0.11.jar"
                         },
                         {
                             "name": "sbt",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.9.7\\sbt-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/2.0.11/sbt-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "main_2.12",
-                    "version": "1.9.7",
+                    "name": "main_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "main_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.9.7\\main_2.12-1.9.7.jar"
+                            "name": "main_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_3/2.0.11/main_3-2.0.11.jar"
                         },
                         {
-                            "name": "main_2.12",
+                            "name": "main_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.9.7\\main_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_3/2.0.11/main_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "io_2.12",
-                    "version": "1.9.7",
+                    "name": "io_3",
+                    "version": "1.13.5",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "io_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.9.7\\io_2.12-1.9.7.jar"
+                            "name": "io_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_3/1.13.5/io_3-1.13.5.jar"
                         },
                         {
-                            "name": "io_2.12",
+                            "name": "io_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.9.7\\io_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_3/1.13.5/io_3-1.13.5-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "logic_2.12",
-                    "version": "1.9.7",
+                    "name": "actions_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "logic_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\logic_2.12\\1.9.7\\logic_2.12-1.9.7.jar"
+                            "name": "actions_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_3/2.0.11/actions_3-2.0.11.jar"
                         },
                         {
-                            "name": "logic_2.12",
+                            "name": "actions_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\logic_2.12\\1.9.7\\logic_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_3/2.0.11/actions_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "actions_2.12",
-                    "version": "1.9.7",
+                    "name": "build-file_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "actions_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\actions_2.12\\1.9.7\\actions_2.12-1.9.7.jar"
+                            "name": "build-file_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/build-file_3/2.0.11/build-file_3-2.0.11.jar"
                         },
                         {
-                            "name": "actions_2.12",
+                            "name": "build-file_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\actions_2.12\\1.9.7\\actions_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/build-file_3/2.0.11/build-file_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "main-settings_2.12",
-                    "version": "1.9.7",
+                    "name": "main-settings_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "main-settings_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main-settings_2.12\\1.9.7\\main-settings_2.12-1.9.7.jar"
+                            "name": "main-settings_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_3/2.0.11/main-settings_3-2.0.11.jar"
                         },
                         {
-                            "name": "main-settings_2.12",
+                            "name": "main-settings_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main-settings_2.12\\1.9.7\\main-settings_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_3/2.0.11/main-settings_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "run_2.12",
-                    "version": "1.9.7",
+                    "name": "run_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "run_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\run_2.12\\1.9.7\\run_2.12-1.9.7.jar"
+                            "name": "run_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_3/2.0.11/run_3-2.0.11.jar"
                         },
                         {
-                            "name": "run_2.12",
+                            "name": "run_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\run_2.12\\1.9.7\\run_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_3/2.0.11/run_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "command_2.12",
-                    "version": "1.9.7",
+                    "name": "command_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "command_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\command_2.12\\1.9.7\\command_2.12-1.9.7.jar"
+                            "name": "command_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_3/2.0.11/command_3-2.0.11.jar"
                         },
                         {
-                            "name": "command_2.12",
+                            "name": "command_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\command_2.12\\1.9.7\\command_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_3/2.0.11/command_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "collections_2.12",
-                    "version": "1.9.7",
+                    "name": "collections_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "collections_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\collections_2.12\\1.9.7\\collections_2.12-1.9.7.jar"
+                            "name": "collections_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_3/2.0.11/collections_3-2.0.11.jar"
                         },
                         {
-                            "name": "collections_2.12",
+                            "name": "collections_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\collections_2.12\\1.9.7\\collections_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_3/2.0.11/collections_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "scripted-plugin_2.12",
-                    "version": "1.9.7",
+                    "name": "librarymanagement-ivy_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scripted-plugin_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\scripted-plugin_2.12\\1.9.7\\scripted-plugin_2.12-1.9.7.jar"
+                            "name": "librarymanagement-ivy_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_3/2.0.11/librarymanagement-ivy_3-2.0.11.jar"
                         },
                         {
-                            "name": "scripted-plugin_2.12",
+                            "name": "librarymanagement-ivy_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\scripted-plugin_2.12\\1.9.7\\scripted-plugin_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_3/2.0.11/librarymanagement-ivy_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc-lm-integration_2.12",
-                    "version": "1.9.7",
+                    "name": "zinc-lm-integration_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-lm-integration_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-lm-integration_2.12\\1.9.7\\zinc-lm-integration_2.12-1.9.7.jar"
+                            "name": "zinc-lm-integration_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_3/2.0.11/zinc-lm-integration_3-2.0.11.jar"
                         },
                         {
-                            "name": "zinc-lm-integration_2.12",
+                            "name": "zinc-lm-integration_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-lm-integration_2.12\\1.9.7\\zinc-lm-integration_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_3/2.0.11/zinc-lm-integration_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-logging_2.12",
-                    "version": "1.9.7",
+                    "name": "util-logging_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-logging_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-logging_2.12\\1.9.7\\util-logging_2.12-1.9.7.jar"
+                            "name": "util-logging_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_3/2.0.11/util-logging_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-logging_2.12",
+                            "name": "util-logging_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-logging_2.12\\1.9.7\\util-logging_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_3/2.0.11/util-logging_3-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "librarymanagement-core_3",
+                    "version": "2.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "librarymanagement-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_3/2.0.11/librarymanagement-core_3-2.0.11.jar"
+                        },
+                        {
+                            "name": "librarymanagement-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_3/2.0.11/librarymanagement-core_3-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "librarymanagement-coursier_3",
+                    "version": "2.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "librarymanagement-coursier_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-coursier_3/2.0.11/librarymanagement-coursier_3-2.0.11.jar"
+                        },
+                        {
+                            "name": "librarymanagement-coursier_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-coursier_3/2.0.11/librarymanagement-coursier_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang.modules",
-                    "name": "scala-xml_2.12",
-                    "version": "2.2.0",
+                    "name": "scala-xml_3",
+                    "version": "2.4.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-xml_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-xml_2.12\\2.2.0\\scala-xml_2.12-2.2.0.jar"
+                            "name": "scala-xml_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_3/2.4.0/scala-xml_3-2.4.0.jar"
                         },
                         {
-                            "name": "scala-xml_2.12",
+                            "name": "scala-xml_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-xml_2.12\\2.2.0\\scala-xml_2.12-2.2.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_3/2.4.0/scala-xml_3-2.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "sjson-new-scalajson_3",
+                    "version": "0.15.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "sjson-new-scalajson_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_3/0.15.1/sjson-new-scalajson_3-0.15.1.jar"
+                        },
+                        {
+                            "name": "sjson-new-scalajson_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_3/0.15.1/sjson-new-scalajson_3-0.15.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "sjson-new-core_3",
+                    "version": "0.15.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "sjson-new-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_3/0.15.1/sjson-new-core_3-0.15.1.jar"
+                        },
+                        {
+                            "name": "sjson-new-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_3/0.15.1/sjson-new-core_3-0.15.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
                     "name": "launcher-interface",
-                    "version": "1.4.2",
+                    "version": "1.6.2",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "launcher-interface",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\launcher-interface\\1.4.2\\launcher-interface-1.4.2.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.6.2/launcher-interface-1.6.2.jar"
                         },
                         {
                             "name": "launcher-interface",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\launcher-interface\\1.4.2\\launcher-interface-1.4.2-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.6.2/launcher-interface-1.6.2-sources.jar"
                         }
                     ]
                 },
@@ -553,148 +746,80 @@
                     "artifacts": [
                         {
                             "name": "caffeine",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\ben-manes\\caffeine\\caffeine\\2.8.5\\caffeine-2.8.5.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar"
                         },
                         {
                             "name": "caffeine",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\ben-manes\\caffeine\\caffeine\\2.8.5\\caffeine-2.8.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "io.get-coursier",
-                    "name": "lm-coursier-shaded_2.12",
-                    "version": "2.1.2",
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-collection-compat_3",
+                    "version": "2.14.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "lm-coursier-shaded_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\get-coursier\\lm-coursier-shaded_2.12\\2.1.2\\lm-coursier-shaded_2.12-2.1.2.jar"
+                            "name": "scala-collection-compat_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0.jar"
                         },
                         {
-                            "name": "lm-coursier-shaded_2.12",
+                            "name": "scala-collection-compat_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\get-coursier\\lm-coursier-shaded_2.12\\2.1.2\\lm-coursier-shaded_2.12-2.1.2-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.14.0/scala-collection-compat_3-2.14.0-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "org.apache.logging.log4j",
-                    "name": "log4j-api",
-                    "version": "2.17.1",
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-parallel-collections_3",
+                    "version": "1.2.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "log4j-api",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-api\\2.17.1\\log4j-api-2.17.1.jar"
+                            "name": "scala-parallel-collections_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_3/1.2.0/scala-parallel-collections_3-1.2.0.jar"
                         },
                         {
-                            "name": "log4j-api",
+                            "name": "scala-parallel-collections_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-api\\2.17.1\\log4j-api-2.17.1-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.apache.logging.log4j",
-                    "name": "log4j-core",
-                    "version": "2.17.1",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "log4j-core",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-core\\2.17.1\\log4j-core-2.17.1.jar"
-                        },
-                        {
-                            "name": "log4j-core",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-core\\2.17.1\\log4j-core-2.17.1-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.apache.logging.log4j",
-                    "name": "log4j-slf4j-impl",
-                    "version": "2.17.1",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "log4j-slf4j-impl",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-slf4j-impl\\2.17.1\\log4j-slf4j-impl-2.17.1.jar"
-                        },
-                        {
-                            "name": "log4j-slf4j-impl",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\apache\\logging\\log4j\\log4j-slf4j-impl\\2.17.1\\log4j-slf4j-impl-2.17.1-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "librarymanagement-core_2.12",
-                    "version": "1.9.3",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "librarymanagement-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-core_2.12\\1.9.3\\librarymanagement-core_2.12-1.9.3.jar"
-                        },
-                        {
-                            "name": "librarymanagement-core_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-core_2.12\\1.9.3\\librarymanagement-core_2.12-1.9.3-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "librarymanagement-ivy_2.12",
-                    "version": "1.9.3",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "librarymanagement-ivy_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-ivy_2.12\\1.9.3\\librarymanagement-ivy_2.12-1.9.3.jar"
-                        },
-                        {
-                            "name": "librarymanagement-ivy_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\librarymanagement-ivy_2.12\\1.9.3\\librarymanagement-ivy_2.12-1.9.3-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_3/1.2.0/scala-parallel-collections_3-1.2.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
                     "name": "compiler-interface",
-                    "version": "1.9.5",
+                    "version": "2.0.4",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "compiler-interface",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-interface\\1.9.5\\compiler-interface-1.9.5.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/2.0.4/compiler-interface-2.0.4.jar"
                         },
                         {
                             "name": "compiler-interface",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-interface\\1.9.5\\compiler-interface-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/2.0.4/compiler-interface-2.0.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc-compile_2.12",
-                    "version": "1.9.5",
+                    "name": "zinc-compile-core_3",
+                    "version": "2.0.4",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-compile_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile_2.12\\1.9.5\\zinc-compile_2.12-1.9.5.jar"
+                            "name": "zinc-compile-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_3/2.0.4/zinc-compile-core_3-2.0.4.jar"
                         },
                         {
-                            "name": "zinc-compile_2.12",
+                            "name": "zinc-compile-core_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile_2.12\\1.9.5\\zinc-compile_2.12-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_3/2.0.4/zinc-compile-core_3-2.0.4-sources.jar"
                         }
                     ]
                 },
@@ -706,318 +831,318 @@
                     "artifacts": [
                         {
                             "name": "file-tree-views",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\swoval\\file-tree-views\\2.1.12\\file-tree-views-2.1.12.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar"
                         },
                         {
                             "name": "file-tree-views",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\swoval\\file-tree-views\\2.1.12\\file-tree-views-2.1.12-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "net.java.dev.jna",
-                    "name": "jna",
-                    "version": "5.13.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "jna",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0.jar"
-                        },
-                        {
-                            "name": "jna",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "net.java.dev.jna",
-                    "name": "jna-platform",
-                    "version": "5.13.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "jna-platform",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna-platform\\5.13.0\\jna-platform-5.13.0.jar"
-                        },
-                        {
-                            "name": "jna-platform",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna-platform\\5.13.0\\jna-platform-5.13.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-relation_2.12",
-                    "version": "1.9.7",
+                    "name": "completion_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-relation_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-relation_2.12\\1.9.7\\util-relation_2.12-1.9.7.jar"
+                            "name": "completion_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_3/2.0.11/completion_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-relation_2.12",
+                            "name": "completion_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-relation_2.12\\1.9.7\\util-relation_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_3/2.0.11/completion_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "completion_2.12",
-                    "version": "1.9.7",
+                    "name": "task-system_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "completion_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\completion_2.12\\1.9.7\\completion_2.12-1.9.7.jar"
+                            "name": "task-system_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_3/2.0.11/task-system_3-2.0.11.jar"
                         },
                         {
-                            "name": "completion_2.12",
+                            "name": "task-system_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\completion_2.12\\1.9.7\\completion_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_3/2.0.11/task-system_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "task-system_2.12",
-                    "version": "1.9.7",
+                    "name": "tasks_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "task-system_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\task-system_2.12\\1.9.7\\task-system_2.12-1.9.7.jar"
+                            "name": "tasks_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_3/2.0.11/tasks_3-2.0.11.jar"
                         },
                         {
-                            "name": "task-system_2.12",
+                            "name": "tasks_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\task-system_2.12\\1.9.7\\task-system_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_3/2.0.11/tasks_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "tasks_2.12",
-                    "version": "1.9.7",
+                    "name": "testing_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "tasks_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\tasks_2.12\\1.9.7\\tasks_2.12-1.9.7.jar"
+                            "name": "testing_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_3/2.0.11/testing_3-2.0.11.jar"
                         },
                         {
-                            "name": "tasks_2.12",
+                            "name": "testing_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\tasks_2.12\\1.9.7\\tasks_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_3/2.0.11/testing_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "testing_2.12",
-                    "version": "1.9.7",
+                    "name": "util-cache_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "testing_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\testing_2.12\\1.9.7\\testing_2.12-1.9.7.jar"
+                            "name": "util-cache_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_3/2.0.11/util-cache_3-2.0.11.jar"
                         },
                         {
-                            "name": "testing_2.12",
+                            "name": "util-cache_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\testing_2.12\\1.9.7\\testing_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_3/2.0.11/util-cache_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-tracking_2.12",
-                    "version": "1.9.7",
+                    "name": "util-relation_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-tracking_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-tracking_2.12\\1.9.7\\util-tracking_2.12-1.9.7.jar"
+                            "name": "util-relation_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_3/2.0.11/util-relation_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-tracking_2.12",
+                            "name": "util-relation_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-tracking_2.12\\1.9.7\\util-tracking_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_3/2.0.11/util-relation_3-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "util-tracking_3",
+                    "version": "2.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "util-tracking_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_3/2.0.11/util-tracking_3-2.0.11.jar"
+                        },
+                        {
+                            "name": "util-tracking_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_3/2.0.11/util-tracking_3-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "worker",
+                    "version": "2.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "worker",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/worker/2.0.11/worker-2.0.11.jar"
+                        },
+                        {
+                            "name": "worker",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/worker/2.0.11/worker-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "protocol_3",
+                    "version": "2.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "protocol_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_3/2.0.11/protocol_3-2.0.11.jar"
+                        },
+                        {
+                            "name": "protocol_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_3/2.0.11/protocol_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.eed3si9n",
-                    "name": "sjson-new-scalajson_2.12",
-                    "version": "0.9.1",
+                    "name": "gigahorse-apache-http_3",
+                    "version": "0.9.6",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "sjson-new-scalajson_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-scalajson_2.12\\0.9.1\\sjson-new-scalajson_2.12-0.9.1.jar"
+                            "name": "gigahorse-apache-http_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_3/0.9.6/gigahorse-apache-http_3-0.9.6.jar"
                         },
                         {
-                            "name": "sjson-new-scalajson_2.12",
+                            "name": "gigahorse-apache-http_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-scalajson_2.12\\0.9.1\\sjson-new-scalajson_2.12-0.9.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_3/0.9.6/gigahorse-apache-http_3-0.9.6-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
                     "name": "jline-terminal",
-                    "version": "3.19.0",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jline-terminal",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal\\3.19.0\\jline-terminal-3.19.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.27.1/jline-terminal-3.27.1.jar"
                         },
                         {
                             "name": "jline-terminal",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal\\3.19.0\\jline-terminal-3.19.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.27.1/jline-terminal-3.27.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc-classpath_2.12",
-                    "version": "1.9.5",
+                    "name": "zinc-classpath_3",
+                    "version": "2.0.4",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-classpath_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classpath_2.12\\1.9.5\\zinc-classpath_2.12-1.9.5.jar"
+                            "name": "zinc-classpath_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_3/2.0.4/zinc-classpath_3-2.0.4.jar"
                         },
                         {
-                            "name": "zinc-classpath_2.12",
+                            "name": "zinc-classpath_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classpath_2.12\\1.9.5\\zinc-classpath_2.12-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_3/2.0.4/zinc-classpath_3-2.0.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc-apiinfo_2.12",
-                    "version": "1.9.5",
+                    "name": "zinc-apiinfo_3",
+                    "version": "2.0.4",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-apiinfo_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-apiinfo_2.12\\1.9.5\\zinc-apiinfo_2.12-1.9.5.jar"
+                            "name": "zinc-apiinfo_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_3/2.0.4/zinc-apiinfo_3-2.0.4.jar"
                         },
                         {
-                            "name": "zinc-apiinfo_2.12",
+                            "name": "zinc-apiinfo_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-apiinfo_2.12\\1.9.5\\zinc-apiinfo_2.12-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_3/2.0.4/zinc-apiinfo_3-2.0.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc_2.12",
-                    "version": "1.9.5",
+                    "name": "zinc_3",
+                    "version": "2.0.4",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc_2.12\\1.9.5\\zinc_2.12-1.9.5.jar"
+                            "name": "zinc_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_3/2.0.4/zinc_3-2.0.4.jar"
                         },
                         {
-                            "name": "zinc_2.12",
+                            "name": "zinc_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc_2.12\\1.9.5\\zinc_2.12-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_3/2.0.4/zinc_3-2.0.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-compiler_3",
+                    "version": "3.8.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-compiler_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4.jar"
+                        },
+                        {
+                            "name": "scala3-compiler_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.8.4/scala3-compiler_3-3.8.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "core-macros_2.12",
-                    "version": "1.9.7",
+                    "name": "core-macros_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "core-macros_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\core-macros_2.12\\1.9.7\\core-macros_2.12-1.9.7.jar"
+                            "name": "core-macros_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_3/2.0.11/core-macros_3-2.0.11.jar"
                         },
                         {
-                            "name": "core-macros_2.12",
+                            "name": "core-macros_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\core-macros_2.12\\1.9.7\\core-macros_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_3/2.0.11/core-macros_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-cache_2.12",
-                    "version": "1.9.7",
+                    "name": "logic_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-cache_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-cache_2.12\\1.9.7\\util-cache_2.12-1.9.7.jar"
+                            "name": "logic_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_3/2.0.11/logic_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-cache_2.12",
+                            "name": "logic_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-cache_2.12\\1.9.7\\util-cache_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_3/2.0.11/logic_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-control_2.12",
-                    "version": "1.9.7",
+                    "name": "util-control_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-control_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-control_2.12\\1.9.7\\util-control_2.12-1.9.7.jar"
+                            "name": "util-control_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_3/2.0.11/util-control_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-control_2.12",
+                            "name": "util-control_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-control_2.12\\1.9.7\\util-control_2.12-1.9.7-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "protocol_2.12",
-                    "version": "1.9.7",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "protocol_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\protocol_2.12\\1.9.7\\protocol_2.12-1.9.7.jar"
-                        },
-                        {
-                            "name": "protocol_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\protocol_2.12\\1.9.7\\protocol_2.12-1.9.7-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.eed3si9n",
-                    "name": "sjson-new-core_2.12",
-                    "version": "0.9.1",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "sjson-new-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-core_2.12\\0.9.1\\sjson-new-core_2.12-0.9.1.jar"
-                        },
-                        {
-                            "name": "sjson-new-core_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-core_2.12\\0.9.1\\sjson-new-core_2.12-0.9.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_3/2.0.11/util-control_3-2.0.11-sources.jar"
                         }
                     ]
                 },
@@ -1029,114 +1154,131 @@
                     "artifacts": [
                         {
                             "name": "template-resolver",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\template-resolver\\0.1\\template-resolver-0.1.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar"
                         },
                         {
                             "name": "template-resolver",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\template-resolver\\0.1\\template-resolver-0.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "util-position_2.12",
-                    "version": "1.9.7",
+                    "name": "util-position_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "util-position_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-position_2.12\\1.9.7\\util-position_2.12-1.9.7.jar"
+                            "name": "util-position_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_3/2.0.11/util-position_3-2.0.11.jar"
                         },
                         {
-                            "name": "util-position_2.12",
+                            "name": "util-position_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-position_2.12\\1.9.7\\util-position_2.12-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_3/2.0.11/util-position_3-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
-                    "name": "zinc-compile-core_2.12",
-                    "version": "1.9.5",
+                    "name": "util-core_3",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-compile-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile-core_2.12\\1.9.5\\zinc-compile-core_2.12-1.9.5.jar"
+                            "name": "util-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-core_3/2.0.11/util-core_3-2.0.11.jar"
                         },
                         {
-                            "name": "zinc-compile-core_2.12",
+                            "name": "util-core_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-compile-core_2.12\\1.9.5\\zinc-compile-core_2.12-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-core_3/2.0.11/util-core_3-2.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt.ivy",
+                    "name": "ivy",
+                    "version": "2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "ivy",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a/ivy-2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a.jar"
+                        },
+                        {
+                            "name": "ivy",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a/ivy-2.3.0-sbt-f686954b0021a5c3245766ced0cdaeca8ba2fd7a-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt",
                     "name": "util-interface",
-                    "version": "1.9.7",
+                    "version": "2.0.11",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "util-interface",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-interface\\1.9.7\\util-interface-1.9.7.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/2.0.11/util-interface-2.0.11.jar"
                         },
                         {
                             "name": "util-interface",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-interface\\1.9.7\\util-interface-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/2.0.11/util-interface-2.0.11-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt.jline",
                     "name": "jline",
-                    "version": "2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493",
+                    "version": "2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jline",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\jline\\jline\\2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493\\jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18/jline-2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18.jar"
                         },
                         {
                             "name": "jline",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\jline\\jline\\2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493\\jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18/jline-2.14.7-sbt-9a88bc413e2b34a4580c001c654d1a7f4f65bf18-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
-                    "name": "jline-terminal-jna",
-                    "version": "3.19.0",
+                    "name": "jline-terminal-jni",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "jline-terminal-jna",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jna\\3.19.0\\jline-terminal-jna-3.19.0.jar"
+                            "name": "jline-terminal-jni",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.27.1/jline-terminal-jni-3.27.1.jar"
                         },
                         {
-                            "name": "jline-terminal-jna",
+                            "name": "jline-terminal-jni",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jna\\3.19.0\\jline-terminal-jna-3.19.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.27.1/jline-terminal-jni-3.27.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
-                    "name": "jline-terminal-jansi",
-                    "version": "3.19.0",
+                    "name": "jline-native",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "jline-terminal-jansi",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jansi\\3.19.0\\jline-terminal-jansi-3.19.0.jar"
+                            "name": "jline-native",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.27.1/jline-native-3.27.1.jar"
                         },
                         {
-                            "name": "jline-terminal-jansi",
+                            "name": "jline-native",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jansi\\3.19.0\\jline-terminal-jansi-3.19.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.27.1/jline-native-3.27.1-sources.jar"
                         }
                     ]
                 },
@@ -1148,29 +1290,63 @@
                     "artifacts": [
                         {
                             "name": "disruptor",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lmax\\disruptor\\3.4.2\\disruptor-3.4.2.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar"
                         },
                         {
                             "name": "disruptor",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lmax\\disruptor\\3.4.2\\disruptor-3.4.2-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "org.scala-lang",
-                    "name": "scala-reflect",
-                    "version": "2.12.18",
+                    "organization": "com.github.mwiede",
+                    "name": "jsch",
+                    "version": "0.2.23",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-reflect",
-                            "path": "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-reflect.jar"
+                            "name": "jsch",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.jar"
                         },
                         {
-                            "name": "scala-reflect",
+                            "name": "jsch",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.12.18\\scala-reflect-2.12.18-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "shaded-scalajson_3",
+                    "version": "1.0.0-M4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "shaded-scalajson_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_3/1.0.0-M4/shaded-scalajson_3-1.0.0-M4.jar"
+                        },
+                        {
+                            "name": "shaded-scalajson_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_3/1.0.0-M4/shaded-scalajson_3-1.0.0-M4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "shaded-jawn-parser_3",
+                    "version": "1.7.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "shaded-jawn-parser_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_3/1.7.0/shaded-jawn-parser_3-1.7.0.jar"
+                        },
+                        {
+                            "name": "shaded-jawn-parser_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_3/1.7.0/shaded-jawn-parser_3-1.7.0-sources.jar"
                         }
                     ]
                 },
@@ -1182,12 +1358,12 @@
                     "artifacts": [
                         {
                             "name": "checker-qual",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\checkerframework\\checker-qual\\3.4.1\\checker-qual-3.4.1.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar"
                         },
                         {
                             "name": "checker-qual",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\checkerframework\\checker-qual\\3.4.1\\checker-qual-3.4.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1-sources.jar"
                         }
                     ]
                 },
@@ -1199,165 +1375,80 @@
                     "artifacts": [
                         {
                             "name": "error_prone_annotations",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\errorprone\\error_prone_annotations\\2.4.0\\error_prone_annotations-2.4.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar"
                         },
                         {
                             "name": "error_prone_annotations",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\errorprone\\error_prone_annotations\\2.4.0\\error_prone_annotations-2.4.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "zinc-classfile_3",
+                    "version": "2.0.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "zinc-classfile_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_3/2.0.4/zinc-classfile_3-2.0.4.jar"
+                        },
+                        {
+                            "name": "zinc-classfile_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_3/2.0.4/zinc-classfile_3-2.0.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang.modules",
-                    "name": "scala-collection-compat_2.12",
-                    "version": "2.10.0",
+                    "name": "scala-parser-combinators_3",
+                    "version": "2.1.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-collection-compat_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-collection-compat_2.12\\2.10.0\\scala-collection-compat_2.12-2.10.0.jar"
+                            "name": "scala-parser-combinators_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_3/2.1.0/scala-parser-combinators_3-2.1.0.jar"
                         },
                         {
-                            "name": "scala-collection-compat_2.12",
+                            "name": "scala-parser-combinators_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-collection-compat_2.12\\2.10.0\\scala-collection-compat_2.12-2.10.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.slf4j",
-                    "name": "slf4j-api",
-                    "version": "1.7.36",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "slf4j-api",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\slf4j\\slf4j-api\\1.7.36\\slf4j-api-1.7.36.jar"
-                        },
-                        {
-                            "name": "slf4j-api",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\slf4j\\slf4j-api\\1.7.36\\slf4j-api-1.7.36-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-lang",
-                    "name": "scala-compiler",
-                    "version": "2.12.18",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "scala-compiler",
-                            "path": "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-compiler.jar"
-                        },
-                        {
-                            "name": "scala-compiler",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.12.18\\scala-compiler-2.12.18-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.jcraft",
-                    "name": "jsch",
-                    "version": "0.1.54",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "jsch",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\jcraft\\jsch\\0.1.54\\jsch-0.1.54.jar"
-                        },
-                        {
-                            "name": "jsch",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\jcraft\\jsch\\0.1.54\\jsch-0.1.54-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.eed3si9n",
-                    "name": "gigahorse-apache-http_2.12",
-                    "version": "0.7.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "gigahorse-apache-http_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-apache-http_2.12\\0.7.0\\gigahorse-apache-http_2.12-0.7.0.jar"
-                        },
-                        {
-                            "name": "gigahorse-apache-http_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-apache-http_2.12\\0.7.0\\gigahorse-apache-http_2.12-0.7.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt.ivy",
-                    "name": "ivy",
-                    "version": "2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "ivy",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ivy\\ivy\\2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2\\ivy-2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2.jar"
-                        },
-                        {
-                            "name": "ivy",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ivy\\ivy\\2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2\\ivy-2.3.0-sbt-396a783bba347016e7fe30dacc60d355be607fe2-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_3/2.1.0/scala-parser-combinators_3-2.1.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
                     "name": "jline-reader",
-                    "version": "3.19.0",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jline-reader",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-reader\\3.19.0\\jline-reader-3.19.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.27.1/jline-reader-3.27.1.jar"
                         },
                         {
                             "name": "jline-reader",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-reader\\3.19.0\\jline-reader-3.19.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.27.1/jline-reader-3.27.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
                     "name": "jline-builtins",
-                    "version": "3.19.0",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jline-builtins",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-builtins\\3.19.0\\jline-builtins-3.19.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.27.1/jline-builtins-3.27.1.jar"
                         },
                         {
                             "name": "jline-builtins",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-builtins\\3.19.0\\jline-builtins-3.19.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "test-agent",
-                    "version": "1.9.7",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "test-agent",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-agent\\1.9.7\\test-agent-1.9.7.jar"
-                        },
-                        {
-                            "name": "test-agent",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-agent\\1.9.7\\test-agent-1.9.7-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.27.1/jline-builtins-3.27.1-sources.jar"
                         }
                     ]
                 },
@@ -1369,301 +1460,267 @@
                     "artifacts": [
                         {
                             "name": "test-interface",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-interface\\1.0\\test-interface-1.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar"
                         },
                         {
                             "name": "test-interface",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\test-interface\\1.0\\test-interface-1.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.eed3si9n",
-                    "name": "shaded-jawn-parser_2.12",
-                    "version": "0.9.1",
+                    "name": "sjson-new-murmurhash_3",
+                    "version": "0.15.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "shaded-jawn-parser_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-jawn-parser_2.12\\0.9.1\\shaded-jawn-parser_2.12-0.9.1.jar"
+                            "name": "sjson-new-murmurhash_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_3/0.15.1/sjson-new-murmurhash_3-0.15.1.jar"
                         },
                         {
-                            "name": "shaded-jawn-parser_2.12",
+                            "name": "sjson-new-murmurhash_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-jawn-parser_2.12\\0.9.1\\shaded-jawn-parser_2.12-0.9.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_3/0.15.1/sjson-new-murmurhash_3-0.15.1-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "com.eed3si9n",
-                    "name": "shaded-scalajson_2.12",
-                    "version": "1.0.0-M4",
+                    "organization": "org.scala-sbt.gson",
+                    "name": "shaded-gson",
+                    "version": "2.13.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "shaded-scalajson_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-scalajson_2.12\\1.0.0-M4\\shaded-scalajson_2.12-1.0.0-M4.jar"
+                            "name": "shaded-gson",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/gson/shaded-gson/2.13.1/shaded-gson-2.13.1.jar"
                         },
                         {
-                            "name": "shaded-scalajson_2.12",
+                            "name": "shaded-gson",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-scalajson_2.12\\1.0.0-M4\\shaded-scalajson_2.12-1.0.0-M4-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "compiler-bridge_2.12",
-                    "version": "1.9.5",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "compiler-bridge_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-bridge_2.12\\1.9.5\\compiler-bridge_2.12-1.9.5.jar"
-                        },
-                        {
-                            "name": "compiler-bridge_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-bridge_2.12\\1.9.5\\compiler-bridge_2.12-1.9.5-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "zinc-classfile_2.12",
-                    "version": "1.9.5",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "zinc-classfile_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classfile_2.12\\1.9.5\\zinc-classfile_2.12-1.9.5.jar"
-                        },
-                        {
-                            "name": "zinc-classfile_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-classfile_2.12\\1.9.5\\zinc-classfile_2.12-1.9.5-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "zinc-core_2.12",
-                    "version": "1.9.5",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "zinc-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-core_2.12\\1.9.5\\zinc-core_2.12-1.9.5.jar"
-                        },
-                        {
-                            "name": "zinc-core_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-core_2.12\\1.9.5\\zinc-core_2.12-1.9.5-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-sbt",
-                    "name": "zinc-persist_2.12",
-                    "version": "1.9.5",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "zinc-persist_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist_2.12\\1.9.5\\zinc-persist_2.12-1.9.5.jar"
-                        },
-                        {
-                            "name": "zinc-persist_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist_2.12\\1.9.5\\zinc-persist_2.12-1.9.5-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.eed3si9n",
-                    "name": "sjson-new-murmurhash_2.12",
-                    "version": "0.9.1",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "sjson-new-murmurhash_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-murmurhash_2.12\\0.9.1\\sjson-new-murmurhash_2.12-0.9.1.jar"
-                        },
-                        {
-                            "name": "sjson-new-murmurhash_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\sjson-new-murmurhash_2.12\\0.9.1\\sjson-new-murmurhash_2.12-0.9.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/gson/shaded-gson/2.13.1/shaded-gson-2.13.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-sbt.ipcsocket",
                     "name": "ipcsocket",
-                    "version": "1.6.2",
+                    "version": "1.8.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "ipcsocket",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ipcsocket\\ipcsocket\\1.6.2\\ipcsocket-1.6.2.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.8.0/ipcsocket-1.8.0.jar"
                         },
                         {
                             "name": "ipcsocket",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\ipcsocket\\ipcsocket\\1.6.2\\ipcsocket-1.6.2-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.8.0/ipcsocket-1.8.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "gigahorse-core_3",
+                    "version": "0.9.6",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "gigahorse-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_3/0.9.6/gigahorse-core_3-0.9.6.jar"
+                        },
+                        {
+                            "name": "gigahorse-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_3/0.9.6/gigahorse-core_3-0.9.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.eed3si9n",
+                    "name": "shaded-apache-httpclient5",
+                    "version": "0.9.6",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "shaded-apache-httpclient5",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpclient5/0.9.6/shaded-apache-httpclient5-0.9.6.jar"
+                        },
+                        {
+                            "name": "shaded-apache-httpclient5",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpclient5/0.9.6/shaded-apache-httpclient5-0.9.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "zinc-core_3",
+                    "version": "2.0.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "zinc-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_3/2.0.4/zinc-core_3-2.0.4.jar"
+                        },
+                        {
+                            "name": "zinc-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_3/2.0.4/zinc-core_3-2.0.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "zinc-persist_3",
+                    "version": "2.0.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "zinc-persist_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_3/2.0.4/zinc-persist_3-2.0.4.jar"
+                        },
+                        {
+                            "name": "zinc-persist_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_3/2.0.4/zinc-persist_3-2.0.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-interfaces",
+                    "version": "3.8.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-interfaces",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4.jar"
+                        },
+                        {
+                            "name": "scala3-interfaces",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.8.4/scala3-interfaces-3.8.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "tasty-core_3",
+                    "version": "3.8.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "tasty-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4.jar"
+                        },
+                        {
+                            "name": "tasty-core_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.8.4/tasty-core_3-3.8.4-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang.modules",
-                    "name": "scala-parser-combinators_2.12",
-                    "version": "1.1.2",
+                    "name": "scala-asm",
+                    "version": "9.9.0-scala-1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-parser-combinators_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.12\\1.1.2\\scala-parser-combinators_2.12-1.1.2.jar"
+                            "name": "scala-asm",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar"
                         },
                         {
-                            "name": "scala-parser-combinators_2.12",
+                            "name": "scala-asm",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.12\\1.1.2\\scala-parser-combinators_2.12-1.1.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "net.openhft",
-                    "name": "zero-allocation-hashing",
-                    "version": "0.10.1",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "zero-allocation-hashing",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\openhft\\zero-allocation-hashing\\0.10.1\\zero-allocation-hashing-0.10.1.jar"
-                        },
-                        {
-                            "name": "zero-allocation-hashing",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\openhft\\zero-allocation-hashing\\0.10.1\\zero-allocation-hashing-0.10.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.fusesource.jansi",
                     "name": "jansi",
-                    "version": "2.1.0",
+                    "version": "2.4.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jansi",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\2.1.0\\jansi-2.1.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar"
                         },
                         {
                             "name": "jansi",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\2.1.0\\jansi-2.1.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.eed3si9n",
-                    "name": "gigahorse-core_2.12",
-                    "version": "0.7.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "gigahorse-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-core_2.12\\0.7.0\\gigahorse-core_2.12-0.7.0.jar"
-                        },
-                        {
-                            "name": "gigahorse-core_2.12",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\gigahorse-core_2.12\\0.7.0\\gigahorse-core_2.12-0.7.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.eed3si9n",
-                    "name": "shaded-apache-httpasyncclient",
-                    "version": "0.7.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "shaded-apache-httpasyncclient",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-apache-httpasyncclient\\0.7.0\\shaded-apache-httpasyncclient-0.7.0.jar"
-                        },
-                        {
-                            "name": "shaded-apache-httpasyncclient",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\eed3si9n\\shaded-apache-httpasyncclient\\0.7.0\\shaded-apache-httpasyncclient-0.7.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.jline",
                     "name": "jline-style",
-                    "version": "3.19.0",
+                    "version": "3.27.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jline-style",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-style\\3.19.0\\jline-style-3.19.0.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.27.1/jline-style-3.27.1.jar"
                         },
                         {
                             "name": "jline-style",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-style\\3.19.0\\jline-style-3.19.0-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.27.1/jline-style-3.27.1-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "org.scala-sbt",
-                    "name": "zinc-persist-core-assembly",
-                    "version": "1.9.5",
+                    "organization": "net.java.dev.jna",
+                    "name": "jna",
+                    "version": "5.19.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "zinc-persist-core-assembly",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist-core-assembly\\1.9.5\\zinc-persist-core-assembly-1.9.5.jar"
+                            "name": "jna",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.19.0/jna-5.19.0.jar"
                         },
                         {
-                            "name": "zinc-persist-core-assembly",
+                            "name": "jna",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\zinc-persist-core-assembly\\1.9.5\\zinc-persist-core-assembly-1.9.5-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.19.0/jna-5.19.0-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "org.scala-sbt",
-                    "name": "sbinary_2.12",
-                    "version": "0.5.1",
+                    "organization": "net.java.dev.jna",
+                    "name": "jna-platform",
+                    "version": "5.19.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "sbinary_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbinary_2.12\\0.5.1\\sbinary_2.12-0.5.1.jar"
+                            "name": "jna-platform",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.19.0/jna-platform-5.19.0.jar"
                         },
                         {
-                            "name": "sbinary_2.12",
+                            "name": "jna-platform",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbinary_2.12\\0.5.1\\sbinary_2.12-0.5.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.19.0/jna-platform-5.19.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.typesafe",
-                    "name": "ssl-config-core_2.12",
-                    "version": "0.6.1",
+                    "name": "ssl-config-core_3",
+                    "version": "0.7.1",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "ssl-config-core_2.12",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\ssl-config-core_2.12\\0.6.1\\ssl-config-core_2.12-0.6.1.jar"
+                            "name": "ssl-config-core_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_3/0.7.1/ssl-config-core_3-0.7.1.jar"
                         },
                         {
-                            "name": "ssl-config-core_2.12",
+                            "name": "ssl-config-core_3",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\ssl-config-core_2.12\\0.6.1\\ssl-config-core_2.12-0.6.1-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_3/0.7.1/ssl-config-core_3-0.7.1-sources.jar"
                         }
                     ]
                 },
@@ -1675,63 +1732,63 @@
                     "artifacts": [
                         {
                             "name": "reactive-streams",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar"
                         },
                         {
                             "name": "reactive-streams",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.slf4j",
+                    "name": "slf4j-api",
+                    "version": "1.7.28",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "slf4j-api",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28.jar"
+                        },
+                        {
+                            "name": "slf4j-api",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-sbt",
+                    "name": "sbinary_3",
+                    "version": "0.5.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "sbinary_3",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_3/0.5.1/sbinary_3-0.5.1.jar"
+                        },
+                        {
+                            "name": "sbinary_3",
+                            "classifier": "sources",
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_3/0.5.1/sbinary_3-0.5.1-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.typesafe",
                     "name": "config",
-                    "version": "1.4.2",
+                    "version": "1.4.5",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "config",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar"
                         },
                         {
                             "name": "config",
                             "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-lang",
-                    "name": "scala-compiler",
-                    "version": "2.12.18",
-                    "configurations": "optional",
-                    "artifacts": [
-                        {
-                            "name": "scala-compiler",
-                            "path": "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-compiler.jar"
-                        },
-                        {
-                            "name": "scala-compiler",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.12.18\\scala-compiler-2.12.18-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-lang",
-                    "name": "scala-library",
-                    "version": "2.12.18",
-                    "configurations": "optional",
-                    "artifacts": [
-                        {
-                            "name": "scala-library",
-                            "path": "C:\\Users\\sujee\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar"
-                        },
-                        {
-                            "name": "scala-library",
-                            "classifier": "sources",
-                            "path": "C:\\Users\\sujee\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.18\\scala-library-2.12.18-sources.jar"
+                            "path": "/home/suanki/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.5/config-1.4.5-sources.jar"
                         }
                     ]
                 }
