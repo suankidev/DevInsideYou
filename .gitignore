@@ -1,19 +1,53 @@
-dist/*
+# ==========================================
+# SBT & Scala Build Artifacts
+# ==========================================
 target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
+project/target/
+project/project/
 .history
-.cache
-.lib/
-*.iml
-*.ipr
-*.iws
-.idea
+.bsp/
+.bloop/
+
+# Coursier / Ivy cache directories (if created locally)
+.cache/
+.ivy2/cache/
+
+# ==========================================
+# Maven Build Artifacts (if using Maven)
+# ==========================================
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# ==========================================
+# Java / JVM Artifacts
+# ==========================================
 *.class
-out
-.bsp
-.idea
-.metals
-.vscode
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+hs_err_pid*
+replay_pid*
+
+# ==========================================
+# Apache Spark, Hadoop & Distributed Systems
+# ==========================================
+# Metastore and Derby database files created by Spark SQL / Hive
+metastore_db/
+derby.log
+
+# Spark event logs & temporary execution dirs
+spark-warehouse/
+event-logs/
+spark-events/
+
+# Streaming & RDD Checkpoint directories
+checkpoint/
+check
